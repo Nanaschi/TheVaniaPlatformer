@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CoinCollector
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Enemy
+  - Hazards
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 77275183
+    locked: 0
+  - name: Ladder
+    uniqueID: 702693481
+    locked: 0
+  - name: Interactables
+    uniqueID: 3337424497
+    locked: 0
+  - name: Enemy
+    uniqueID: 1224853337
+    locked: 0
+  - name: Hazards
+    uniqueID: 3237145475
+    locked: 0
+  - name: Player
+    uniqueID: 1550307893
+    locked: 0
+  - name: PreForeground
+    uniqueID: 3191352453
+    locked: 0
+  - name: Foreground
+    uniqueID: 3510678401
+    locked: 0
